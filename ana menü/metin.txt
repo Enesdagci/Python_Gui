@@ -1,7 +1,0 @@
-It is recommended taht you run this istaller from an account with administrator privileges (instead of from a Standard or Child account),and that no other users are currently logged in to this PC while installation proceeds.
-
-If you encounter errors while installing, try restarting Windows and only logging in to a single (preferably administrator) account before running this wizard again.
-
-Python wordk fine with all types of user accounts once installation and configuration is complete.
-
-Click Next to proceed.
